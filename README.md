@@ -1,4 +1,4 @@
 # chlorine
-CAT C15 Basic Throttle Controller - Arduino nano based
-See PCB.pdf for wiring pinout.
-Super simple PWM control.
+CAT C15 Basic Throttle Controller - Arduino nano based<br />
+See PCB.pdf for wiring pinout.<br />
+Super simple PWM control.<br />
